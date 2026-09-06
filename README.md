@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jonas, a Network Engineer in Germany.
+
+I currently work as a Network Engineer in the field of critical infrastructure at a hospital in Germany.
+
+- 🔭 Right now I'm working on my personal portfolio website using JavaScript and React.js
+
+Outside of work, I'm interested in following the developments of tech.
+
+Let's connect!
