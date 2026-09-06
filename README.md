@@ -25,6 +25,6 @@ Outside of work, I'm interested in following the developments of tech.
 
 Let's connect!
 
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/5d926156-6551-4bbb-b9cb-655b91244214/thumbnail" >
 </p>
